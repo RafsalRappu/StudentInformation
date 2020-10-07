@@ -1,0 +1,10 @@
+C:\Users\AjuRafsal\Desktop\VisualStudioProject\StudentInformation\StudentInformation\bin\Debug\StudentInformation.exe.config
+C:\Users\AjuRafsal\Desktop\VisualStudioProject\StudentInformation\StudentInformation\bin\Debug\StudentInformation.exe
+C:\Users\AjuRafsal\Desktop\VisualStudioProject\StudentInformation\StudentInformation\bin\Debug\StudentInformation.pdb
+C:\Users\AjuRafsal\Desktop\VisualStudioProject\StudentInformation\StudentInformation\obj\Debug\StudentInformation.csprojAssemblyReference.cache
+C:\Users\AjuRafsal\Desktop\VisualStudioProject\StudentInformation\StudentInformation\obj\Debug\StudentInformation.Properties.Resources.resources
+C:\Users\AjuRafsal\Desktop\VisualStudioProject\StudentInformation\StudentInformation\obj\Debug\StudentInformation.csproj.GenerateResource.cache
+C:\Users\AjuRafsal\Desktop\VisualStudioProject\StudentInformation\StudentInformation\obj\Debug\StudentInformation.csproj.CoreCompileInputs.cache
+C:\Users\AjuRafsal\Desktop\VisualStudioProject\StudentInformation\StudentInformation\obj\Debug\StudentInformation.exe
+C:\Users\AjuRafsal\Desktop\VisualStudioProject\StudentInformation\StudentInformation\obj\Debug\StudentInformation.pdb
+C:\Users\AjuRafsal\Desktop\VisualStudioProject\StudentInformation\StudentInformation\obj\Debug\StudentInformation.Form1.resources
